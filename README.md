@@ -1,8 +1,6 @@
-# Flying
-A classical 2D dogfight game. Written with python.
+# Flying First Version
 
-Using four arrow keys to move, press space to shoot.
+#### Completed in Jan 2019 (including frame-only and image-filled).
+#### Bad coding habit, with insufficient experience, redundant code, not using inheritance.
 
-### **First version is created in Jan 2019.**
-### **Second version is created in Sept 2020 and is still on progress.**
-
+**In Sept 2020, I decided to reconstruct the whole code, so this version of code has been abandoned, but still can be used as testing and debugging.**
