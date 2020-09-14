@@ -1,7 +1,7 @@
 # Flying
-A classical 2D dogfight game. Written with python.
+A classical 2D dogfight game. Written in python.
 
-Using four arrow keys to move, press space to shoot.
+Using arrow keys to move, press space to shoot.
 
 ### **First version is created in Jan 2019.**
 ### **Second version is created in Sept 2020 and is still on progress.**
