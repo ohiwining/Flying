@@ -6,6 +6,8 @@ Using arrow keys to move, press space to shoot.
 ### **Early version is created in Jan 2019.**
 ### **Master/New version is created in Sept 2020 and is still on progress.**
 
+#### Both of versions has two sub-versions: Framed version and Full version. In the Framed version, everything is rectangle and enemies are colorful whereas in the full version everything is filled with unique images.
+
 
 # About Master version:
 #### Reconstruction started in Sept 2020.
