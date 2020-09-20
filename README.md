@@ -1,8 +1,10 @@
 # Flying(飞机大战游戏）
 A classical 2D dogfight game. Written in python.
+
 复古2D小游戏，使用Python的pygame模块编写成。
 
 Using arrow keys to move, press space to shoot.
+
 游戏指南：使用上下左右来移动，空格键开枪。
 
 ### **Early version is created in Jan 2019.**
