@@ -1,4 +1,4 @@
-# Flying First Version（早期版本的飞机大战）
+# Flying Earlier Version（早期版本的飞机大战）
 
 #### Completed in Jan 2019 (including frame-only and image-filled).
 #### 2019年1月编写完成（包括仅框架版本的和带贴图版本的）
