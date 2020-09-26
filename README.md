@@ -9,14 +9,14 @@ Using arrow keys to move, press space to shoot.
 
 ### **Early version is created in Jan 2019.**
 ### **早期版本于2019年年初编写成**
-### **Master/New version is created in Sept 2020 and is still on progress.**
-### **Master版本/新版本 于2020年9月开始编写，尚未开发完毕。**
+### **Main/New version is created in Sept 2020 and is still on progress.**
+### **主版本/新版本 于2020年9月开始编写，尚未开发完毕。**
 
 #### Both of versions has two sub-versions: Framed version and Full version. In the Framed version, everything is rectangle and enemies are colorful whereas in the full version everything is filled with unique images.
 #### 无论新旧版本都分为两种：仅框架（Framed）和带贴图（Full version）。在框架版本中，所有东西都是正方形的，敌人呈现出五颜六色的样式，而带贴图的版本则看上去较为正式。
 
 
-# About Master version 关于 Master（新版本）：
+# About Main version 关于 Main（新版本）：
 #### Reconstruction started in Sept 2020.
 #### 代码于2020年9月开始重构。
 #### Solved most of coding problems appeared in the first version. With detailed comments, everyone is now able to read the code easily.
